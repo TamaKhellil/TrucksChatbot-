@@ -1,4 +1,4 @@
-#This file contains the configuration for the script 'chatbot.py'
+#This file contains the configuration for the script 'TrucksChatbot.py'
 chatbot_name: "Chatbot"
 user_name: "You"
 Questions:
