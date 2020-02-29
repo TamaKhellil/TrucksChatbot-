@@ -1,0 +1,16 @@
+#This file contains the configuration for the script 'chatbot.py'
+chatbot_name: "Chatbot"
+user_name: "You"
+Questions:
+    User_Name: "Hi, what is your name?"
+    Owner: "Hi {}, do you own the trucks?(y/n)"
+    Company: 'What is the name of your company?'
+    Total_Amount_Of_Trucks: 'How many trucks do you have?(please enter numeric value)'
+    Brand_Names: 'Which brands are they?'
+    Brand_Amount_Of_Trucks: 'How many {} trucks do you have?(please enter numeric value)'
+    Brand_Amount_Of_Models: 'How many {} models do you have?(please enter numeric value)'
+    Model_Name: 'What is the {} {} model do you have?'
+    Model_Amount_Of_Trucks: 'How many trucks of this model do you have?(please enter numeric value)'
+    Model_Engine_Size: 'What is the engine size of this model?'
+    Model_Axles: 'How many axles does this model have?'
+    Model_Fuel: 'Which fuel type does this model use?'
