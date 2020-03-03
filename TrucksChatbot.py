@@ -138,7 +138,7 @@ for k_brand in range(len(text_process(Brand_Names))):
         Brand_Amount_Of_Models = ask_question(
             cfg["Questions"]["Brand_Amount_Of_Models"].format(thisBrand)
         )
-    else:  #
+    else:  
         Brand_Amount_Of_Models = 1
 
     # loop through the models
