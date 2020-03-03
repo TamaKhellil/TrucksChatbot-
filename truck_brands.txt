@@ -1,0 +1,115 @@
+Alfa Romeo
+American LaFrance
+Amur
+AMW
+Ashok Leyland
+Askam
+Astra
+Autocar
+Avia
+Avia Trucks
+AzUniversal Motors
+Barkas
+BeiBen
+Beijing Automobile Works
+Bering Truck
+BharatBenz
+BMC
+Büssing
+Caterpillar
+CCC
+CEV
+Chevrolet
+Citroën
+CNJ
+Csepel
+DAF Trucks
+Dayun
+Diamond T
+Dina
+Dongfeng
+Ernst Grube
+FAP
+FAW
+FAW-GM
+Fiat
+Ford
+Ford Otosan
+Foton
+Freightliner
+FSC
+FSC Star
+GA
+GAZ
+GINAF
+Hino
+Horch
+Hyundai
+Iran Khodro Diesel
+Isuzu
+Iveco
+JAC
+Jelcz
+JMC
+Kalmar Industries
+KAMAZ
+Kenworth
+Kia
+KrAZ
+Kutaisi Automobile Plant
+KZKT
+LIAZ
+Mack Trucks
+Mahindra Navistar
+MAN
+Manufacturer
+Master
+MAZ
+Mercedes-Benz
+Minsk Automobile Plant (MAZ)
+Mitsubishi Fuso
+Multicar
+MZKT
+Navistar International
+Nissan
+Peterbilt
+Peterblit
+Peugeot
+Praga
+Renault Trucks
+Riga Autobus Factory
+Robur-Werke
+Roman
+Sachsenring
+SAIC-Iveco Hongyan
+Scania
+Shaanxi
+Silant
+Sinotruk
+Sisu
+Škoda
+Smith
+SML Isuzu
+SNVI
+Star
+Sterling Trucks
+Tata
+Tata Daewoo
+Tatra
+Tatra Trucks
+Toyota
+UAZ
+UD Trucks
+VEB Fahrzeugwerk Mölkau
+VEB Robur-Werke
+Volkswagen
+Volvo
+Wanshan Special Vehicle
+Western Star
+Wuzheng Auto Works
+YaAZ
+Yulon
+Zastava Trucks
+ZiL
+ZiS
+Zmaj
