@@ -1,17 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 # This script is a chatbot for collecting trucks information based on user input
 # Chatbot configuration is stored in the "chatbot_config.yml" file
 # Users Conversations are stored in the 'chatbot.log' file
 # The collected Trucks information are stored in table format in the 'Trucks.csv' file
 #The truck brands are listed in the "truck_brands.txt" file
-
-
-# In[ ]:
 
 
 # import libs
@@ -24,15 +19,8 @@ import os
 from chatterbot import ChatBot
 import logging
 import yaml
-
-# from spellchecker import SpellChecker
 import re
 import jellyfish
-
-get_ipython().run_line_magic('load_ext', 'nb_black')
-
-
-# In[ ]:
 
 
 # function converts an index into ranking str if the corresponding model is not unique
@@ -44,17 +32,12 @@ def get_ranking(index, model_amount):
         return " " + p.number_to_words(p.ordinal(index + 1))
 
 
-# In[ ]:
-
-
 # function returns list of clean text terms
 def text_process(text):
     terms = re.split(",|and", text.lower())
     terms = [x.strip() for x in terms if x.strip()]
     return [word for word in terms if terms not in stopwords.words("english")]
 
-
-# In[ ]:
 
 
 # function asks question and handle return
@@ -66,7 +49,6 @@ def ask_question(question):
     return message
 
 
-# In[ ]:
 
 
 # function returns closest match in the term list, according to levenshtein distance
@@ -88,7 +70,6 @@ def validate_input_term(input_term, allowed_terms):
     return best_match
 
 
-# In[ ]:
 
 
 # read configuration
@@ -101,7 +82,6 @@ logger.setLevel(logging.DEBUG)
 logger.addHandler(logging.FileHandler("chatbot.log"))
 
 
-# In[ ]:
 
 
 # Create chatbot
